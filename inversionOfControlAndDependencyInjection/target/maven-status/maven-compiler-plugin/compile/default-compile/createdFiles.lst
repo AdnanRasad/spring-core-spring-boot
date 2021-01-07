@@ -1,0 +1,11 @@
+runner\myConfiguration.class
+runner\badCouch\BaseballCoach.class
+runner\goodCoach\Coach.class
+runner\Di\Bat.class
+runner\bestCoach\BestCoach.class
+runner\bestCoach\CricketBestCoach.class
+runner\goodCoach\BaseballCoach.class
+runner\mycontroller.class
+runner\bestCoach\BaseballBestCoach.class
+runner\Di\BaseballBat.class
+runner\Di\CricketBat.class
